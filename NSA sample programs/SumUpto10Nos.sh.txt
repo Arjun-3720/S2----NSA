@@ -1,0 +1,5 @@
+echo numbers upto 10 are..
+for i in {1..10}
+do
+echo $i
+done
