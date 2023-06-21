@@ -1,4 +1,5 @@
-// lines in a file
+#lines in a file using while loop
+
 echo "Enter Filename :"
 read f
 n=1
